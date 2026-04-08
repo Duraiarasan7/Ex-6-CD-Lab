@@ -2,6 +2,7 @@
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
 # NAME: DURAIARASAN M
 # REG NO :212224230071
+# DATE :19/3/2026
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
